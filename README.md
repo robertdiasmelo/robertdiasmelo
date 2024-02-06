@@ -6,11 +6,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: `javascript, html, css, python, golang`
+  🦄 Linguagens: javascript, html, css, python, golang
 </p>
 
 <p align="left">
-  💼 Ferramentas: `vscode, git, github`
+  🦄 Frameworks: vue, nuxt
+</p>
+
+<p align="left">
+  💼 Ferramentas: vscode, git, github
 </p>
 
 <p align="left">
