@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Frameworks</strong>: Vue, Nuxt
+  🦄 <strong>Frameworks</strong>: Vue
 </p>
 
 <p align="left">
