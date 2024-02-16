@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💼 <strong>Ferramentas</strong>: VSCode, Git, Github
+  💼 <strong>Ferramentas</strong>: Git, Github, Insomnia e Postman
 </p>
 
 <p align="left">
