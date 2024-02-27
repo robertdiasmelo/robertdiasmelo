@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Linguagens</strong>: JavaScript, HTML, CSS, Python, Go, C
+  🦄 <strong>Linguagens</strong>: JavaScript, TypeScript, HTML, CSS, Python, Go, C
 </p>
 
 <p align="left">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 <strong>Ferramentas</strong>: Git, Github, Insomnia e Postman
+  💼 <strong>Ferramentas</strong>: Git, Docker
 </p>
 
 <p align="left">
