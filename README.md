@@ -28,8 +28,8 @@ Tenho background em Engenharia de Computação e uma abordagem prática de apren
 
 ## 📌 Projetos em destaque
 
-### [10 CRUDs com Spring Boot](https://github.com/robertdiasmelo/bestsbooks)
-Série progressiva de 10 projetos CRUD desenvolvidos com Spring Boot. Cada projeto introduz novos conceitos do framework, partindo da estrutura base até tópicos como autenticação, paginação e upload de arquivos.
+### [CRUD 01 - BestsBooks - Série 10 CRUDs com Spring Boot](https://github.com/robertdiasmelo/bestsbooks)
+Esse é o primeiro CRUD de uma série progressiva de 10 projetos CRUD desenvolvidos com Spring Boot. Cada projeto introduz novos conceitos do framework, partindo da estrutura base até tópicos como autenticação, paginação e upload de arquivos.
 
 ---
 
